@@ -41,7 +41,7 @@ export default function Bike() {
                         <div>
                             <Image src="/img/bicycle1.jpg" alt="黒い自転車のサドル" width={300} height={300} />
                             <h3 className="text-base font-bold text-center mt-2.5">タイトルタイトル</h3>
-                            <p className="text-sm text-center mt-2.5">テキストテキストテキスト</p>
+                            <p className="text-sm text-center mt-2.5">みよしみよしみよし</p>
                         </div>
 
                         <div>
